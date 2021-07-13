@@ -23,6 +23,11 @@ Because security is of the utmost concern in a production environment, it is imp
 }
 ```
 
+## Best way for key deployment
+
+Use the shell script "install-keys.sh" in this directory. Run the shell to deploy keys to each node.
+
+
 ### Run
 
 Submit a new key via RPC, connect to where your `rpc-port` is listening
